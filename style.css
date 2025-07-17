@@ -1391,18 +1391,3 @@ a.contact-link:is(:hover, :focus) { color: var(--white); }
   .back-top-btn { padding: 15px; }
 
 }
-#time{
-  background-color: white;
-  padding: 10px;
-  margin-top: 20px;
-}
-.date{
-  margin-top: 20px;
-  background-color: white;
-  padding: 10px;
-  color:black;
-}
-.input-field{
-  margin-top: 20px;
-
-}
